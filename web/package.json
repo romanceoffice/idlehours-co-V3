@@ -1,9 +1,9 @@
 {
-  "name": "your-project-title",
+  "name": "idlehoursco",
   "private": true,
-  "description": "Boilerplate for Gatsby + Sanity + Shopify",
+  "description": "lovin",
   "version": "0.1.0",
-  "author": "You <your-email@domain.com>",
+  "author": "Ash <ashercaplan.studio.com>",
   "dependencies": {
     "@sanity/client": "^0.147.3",
     "gatsby": "^2.18.12",

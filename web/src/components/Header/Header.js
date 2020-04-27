@@ -9,7 +9,7 @@ const Header = props => {
 	// run graphql queries, setState, useContext, etc.
 	return <>
 	  <header >
-	    <h1>Edit pages/index.js</h1>
+	    <h1>IDLEHOURS CO.</h1>
 	  </header>
 	</>
 }

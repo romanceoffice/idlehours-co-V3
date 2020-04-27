@@ -1,8 +1,8 @@
 {
   "private": false,
-  "name": "example-studio",
+  "name": "idleshoursco",
   "version": "1.0.0",
-  "author": "Lucas Vocos <lucasvocos@gmail.com>",
+  "author": "Asher Caplan <ashercaplan.studio@gmail.com>",
   "engines": {
     "node": "10.x"
   },
